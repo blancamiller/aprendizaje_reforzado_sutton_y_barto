@@ -4,13 +4,13 @@ El objetivo de este repositorio es traducir el libro Aprendizaje Reforzado: Una 
 
 ## Tabla de contenido 
 ### Primer Capítulo: Introducción
-1.1 Aprendizaje Reinforzado__
-1.2 Ejemplos__
-1.3 Elementos del Aprendizaje Reinforzado__
-1.4 Limitaciones y Alcance 
-1.5 Un Ejemplo Extendido: Tic-Tac-Toe
-1.6 Resumen
-1.7 La Primera Historia del Aprendizaje Reinforzado
+1. Aprendizaje Reinforzado
+2. Ejemplos
+3. Elementos del Aprendizaje Reinforzado
+4. Limitaciones y Alcance 
+5. Un Ejemplo Extendido: Tic-Tac-Toe
+6. Resumen
+7. La Primera Historia del Aprendizaje Reinforzado
 
 ## I Métodos de Solución Tabular
 
